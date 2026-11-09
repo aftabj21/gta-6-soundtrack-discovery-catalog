@@ -1,0 +1,8 @@
+# See https://github.com/github/linguist
+package-lock.json linguist-generated
+src/** linguist-detectable
+*.htm linguist-vendored
+
+*.map linguist-generated
+dist/* linguist-vendored
+go.sum linguist-generated
